@@ -13,4 +13,4 @@ This website is for teaching Islamic studies</h1>
     </ol>
     <h3>The website will be in english first. Arabic, and French will follow shortly, and lastly Spanish in sha Allah</h3>
 
-    <h3>Coding has officially started Saturday Jan/22/22</h3>
+    <h3>Coding has officially started Saturday Jan/22/22.</h3>
