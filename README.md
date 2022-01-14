@@ -3,7 +3,7 @@ Tafaqqah.learn is aimed to be the main trustworthy source for learning religion 
 STARTED AT DECEMBER/31/2021.  Jumada I 26, 1443 AH.
 
 This website is for teaching Islamic studies</h1>
-    <h2>These studies include the following</h2>
+    <h2>These studies include the following:</h2>
     <ol>
         <li>Quran studies for example: Tafsiir, and itqaanul quran using the tikrar program.</li>
         <li>Hadith studies such as asanid and ahkam.</li>
