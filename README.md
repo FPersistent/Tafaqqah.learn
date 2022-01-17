@@ -11,6 +11,6 @@ This website is for teaching Islamic studies.</h1>
         <li>Videos and articles battling shubuhat such as evolution theory, atheism, Quraniya and many more.</li>
         <li>Teaching arabic language to a point where students can understand Islamic studies on their own without being a blind follower to a fake scholar.</li>
     </ol>
-    <h3>The website will be in english first. Arabic, and French will follow shortly, and lastly Spanish in sha Allah.</h3>
+    <h3>The website will be in english first. Arabic, and French will follow shortly, and lastly Spanish in sha Allah..</h3>
 
     <h3>Coding has officially started Saturday Jan/22/22.</h3>
