@@ -1,6 +1,6 @@
 # Tafaqqah.learn
 Tafaqqah.learn is aimed to be the main trustworthy source for learning religion around the world In sha Allah.  
-STARTED AT DECEMBER/31/2021.  Jumada I 26, 1443 AH..
+STARTED AT DECEMBER/31/2021. ٠ Jumada I 26, 1443 AH..
 
 This website is for teaching Islamic studies.</h1>
     <h2>These studies include the following:</h2>
