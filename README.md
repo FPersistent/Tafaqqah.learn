@@ -1,6 +1,6 @@
-# Tafaqqah.learn.. 
+# Tafaqqah.learn..
 Tafaqqah.learn is aimed to be the main trustworthy source for learning religion around the world In sha Allah.  
-STARTED AT FEB/22/22 || RAJAB/21/1443 AH..
+STARTED AT FEB/25/22 || RAJAB/24/1443 AH.
 
 This website is for teaching Islamic studies. .</h1>
     <h2>These studies include the following:</h2>
@@ -13,4 +13,4 @@ This website is for teaching Islamic studies. .</h1>
     </ol>
     <h3>The website .will be in english first.... Arabic, and French will follow shortly, and lastly Spanish in sha Allah..</h3>
 
-    <h3>Coding has officially started Saturday FEB/22/22.</h3>
+    <h3>Coding has officially started Saturday FEB/25/22.</h3>
